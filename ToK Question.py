@@ -1,6 +1,7 @@
 import random
 
-way_of_knowing = ["Language ", "Emotion ", "Perception ", "Reason "]
+way_of_knowing = ["Language ", "Emotion ", "Perception ", "Reason ", "Faith " \
+                 , "Intuition ", "Memory "]
 randomizerW = random.choice(way_of_knowing)
 
 fill_one = "in "
